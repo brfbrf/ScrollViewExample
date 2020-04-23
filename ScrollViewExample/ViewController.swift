@@ -70,7 +70,7 @@ class ViewController: UIViewController, UIScrollViewDelegate
             print("bottom")
         }
         
-//        print("did scroll \(scrollView.contentOffset.x) \(scrollView.contentOffset.y)")
+        print("did scroll \(scrollView.contentOffset.x) \(scrollView.contentOffset.y)")
     }
     
     
